@@ -1,0 +1,63 @@
+﻿----------------------------------------------------------------------------
+                        Microsoft Entra
+----------------------------------------------------------------------------
+ ● Microsoft Entra documentation
+    https://learn.microsoft.com/en-us/entra/
+
+ ● Microsoft Authentication Library for .NET
+    https://learn.microsoft.com/en-us/entra/msal/dotnet/
+
+ ● Microsoft identity platform documentation
+    https://learn.microsoft.com/en-us/entra/identity-platform/
+
+ ● Microsoft identity platform overview
+    https://learn.microsoft.com/en-us/entra/identity-platform/v2-overview
+
+ ● Register an application with the Microsoft identity platform
+    https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app
+
+ ● MSAL.NET Scenarios
+    https://learn.microsoft.com/en-us/entra/msal/dotnet/getting-started/scenarios
+
+ ● Public client and confidential client applications
+    https://learn.microsoft.com/en-us/entra/identity-platform/msal-client-applications
+
+ ● Initialize client applications using MSAL.NET
+    https://learn.microsoft.com/en-us/entra/msal/dotnet/getting-started/initializing-client-applications
+
+ ● App sign-in flow with the Microsoft identity platform
+    https://learn.microsoft.com/en-us/entra/identity-platform/app-sign-in-flow
+
+ ● Using web browsers (MSAL.NET)
+    https://learn.microsoft.com/el-gr/entra/msal/dotnet/acquiring-tokens/using-web-browsers
+
+ ● Microsoft identity platform code samples
+    https://learn.microsoft.com/en-us/entra/identity-platform/sample-v2-code
+
+ ● MSAL.NET API Reference Documentation
+    https://learn.microsoft.com/en-us/dotnet/api/overview/?view=msal-dotnet-latest
+
+ ● Using The Windows Authentication Broker For Simpler User Logins With MSAL
+    https://den.dev/blog/using-brokers-authentication-msal/
+
+ ● Integrating Microsoft Entra ID (previously Azure Active Directory) with .Net Core Application
+    https://blog.nashtechglobal.com/integrating-microsoft-entra-id-previously-azure-active-directory-with-net-core-application/
+
+----------------------------------------------------------------------------
+                        Microsoft Graph
+----------------------------------------------------------------------------
+  https://learn.microsoft.com/en-us/graph/
+  https://learn.microsoft.com/en-us/graph/api/resources/identity-network-access-overview?view=graph-rest-1.0
+
+ ● Create a Microsoft Graph client
+    https://learn.microsoft.com/en-us/graph/sdks/create-client
+
+
+
+
+
+
+
+
+
+
