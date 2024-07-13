@@ -2,6 +2,9 @@
 
 [**Microsoft Authentication Library for .NET (MSAL.Net)**](https://learn.microsoft.com/en-us/entra/msal/dotnet/) is a .Net Library that enables applications to provide authentication operations using [Microsoft Entra ID](https://en.wikipedia.org/wiki/Microsoft_Entra_ID).
 
+This text explains what MSAL is and how to use it in .Net applications along with source code and demo applications.
+
+
 ![Desktop Login](LoginWinApp.png)
 
 
